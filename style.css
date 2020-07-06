@@ -19,7 +19,7 @@
     cursor: pointer;
 }
 .cat1{
-    background-image: linear-gradient(65deg, rgb(250, 164, 52),  rgb(245, 186, 108));
+    background-image: linear-gradient(65deg, rgb(250, 164, 52),  rgb(245, 209, 108));
     border-radius: 10px ;
 }
 .cat2{
@@ -41,4 +41,12 @@
 }
 .catagories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
 }
