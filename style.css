@@ -18,3 +18,27 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(65deg, rgb(250, 164, 52),  rgb(245, 186, 108));
+    border-radius: 10px ;
+}
+.cat2{
+    background-image: linear-gradient(65deg, orchid, pink) ;
+    border-radius: 10px ;
+
+}
+.cat3{
+    background-image: linear-gradient(65deg, rgb(36, 36, 238), skyblue);   
+     border-radius: 10px;
+
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    margin-left: 5px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
